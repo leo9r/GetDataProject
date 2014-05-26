@@ -10,7 +10,7 @@ Merging the training and test sets to create one data set. features, activity an
 Extracting only the measurements on the mean and standard deviation for each measurement by using grep on "mean" and "std"
 
 ## Step 3 and 4
-Creating tidy data and naming columns by using the plyr package ---> Check Codebook 
+Creating tidy data and naming columns by using the plyr package ---> [Check Codebook](../blob/master/codebook.md)
 
 ## Step 5
 Exporting tidy dataset by means of write.table
